@@ -1,0 +1,50 @@
+2025-02-19 03:45:26 | INFO | Initializing WebAttackDetector
+2025-02-19 03:45:26 | DEBUG | Initializing category mappings
+2025-02-19 03:45:26 | INFO | label2id: {'Benign': 0, 'SQLi': 1, 'LFI': 2, 'XSS': 3, 'RCE': 4, 'RFI': 5}
+2025-02-19 03:45:26 | DEBUG | Initializing tokenizer and model
+2025-02-19 03:45:28 | DEBUG | Initializing tokenizer and model
+2025-02-19 03:49:41 | INFO | Initializing WebAttackDetector
+2025-02-19 03:49:41 | DEBUG | Initializing category mappings
+2025-02-19 03:49:41 | INFO | label2id: {'Benign': 0, 'SQLi': 1, 'LFI': 2, 'XSS': 3, 'RCE': 4, 'RFI': 5}
+2025-02-19 03:49:41 | DEBUG | Initializing tokenizer and model
+2025-02-19 03:49:43 | DEBUG | Initializing tokenizer and model
+2025-02-19 03:51:09 | INFO | Initializing WebAttackDetector
+2025-02-19 03:51:09 | DEBUG | Initializing category mappings
+2025-02-19 03:51:09 | INFO | label2id: {'SQLi': 0, 'XSS': 1, 'LFI': 2, 'Benign': 3, 'RCE': 4, 'RFI': 5}
+2025-02-19 03:51:09 | DEBUG | Initializing tokenizer and model
+2025-02-19 03:51:10 | DEBUG | Initializing tokenizer and model
+2025-02-19 03:54:59 | INFO | Initializing WebAttackDetector
+2025-02-19 03:54:59 | DEBUG | Initializing category mappings
+2025-02-19 03:54:59 | INFO | label2id: {'Benign': 0, 'LFI': 1, 'SQLi': 2, 'XSS': 3, 'RCE': 4, 'RFI': 5}
+2025-02-19 03:54:59 | DEBUG | Initializing tokenizer and model
+2025-02-19 03:55:00 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:00:57 | INFO | Initializing WebAttackDetector
+2025-02-19 04:00:57 | DEBUG | Initializing category mappings
+2025-02-19 04:00:57 | INFO | label2id: {'XSS': 0, 'Benign': 1, 'LFI': 2, 'SQLi': 3, 'RCE': 4, 'RFI': 5}
+2025-02-19 04:00:57 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:00:59 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:04:35 | INFO | Initializing WebAttackDetector
+2025-02-19 04:04:35 | DEBUG | Initializing category mappings
+2025-02-19 04:04:35 | INFO | label2id: {'LFI': 0, 'SQLi': 1, 'Benign': 2, 'XSS': 3, 'RCE': 4, 'RFI': 5}
+2025-02-19 04:04:35 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:04:37 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:19:58 | INFO | Initializing WebAttackDetector
+2025-02-19 04:19:58 | DEBUG | Initializing category mappings
+2025-02-19 04:19:58 | INFO | label2id: {'Benign': 0, 'XSS': 1, 'RCE': 2, 'SQLi': 3, 'LFI': 4, 'RFI': 5}
+2025-02-19 04:19:58 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:20:00 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:26:56 | INFO | Initializing WebAttackDetector
+2025-02-19 04:26:56 | DEBUG | Initializing category mappings
+2025-02-19 04:26:56 | INFO | label2id: {'RCE': 0, 'XSS': 1, 'Benign': 2, 'SQLi': 3, 'LFI': 4, 'RFI': 5}
+2025-02-19 04:26:56 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:26:58 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:51:08 | INFO | Initializing WebAttackDetector
+2025-02-19 04:51:08 | DEBUG | Initializing category mappings
+2025-02-19 04:51:08 | INFO | label2id: {'Benign': 0, 'XSS': 1, 'SQLi': 2, 'LFI': 3, 'RCE': 4, 'RFI': 5}
+2025-02-19 04:51:08 | DEBUG | Initializing tokenizer and model
+2025-02-19 04:51:09 | DEBUG | Initializing tokenizer and model
+2025-02-19 05:01:15 | INFO | Initializing WebAttackDetector
+2025-02-19 05:01:15 | DEBUG | Initializing category mappings
+2025-02-19 05:01:15 | INFO | label2id: {'SQLi': 0, 'Benign': 1, 'XSS': 2, 'RCE': 3, 'LFI': 4, 'RFI': 5}
+2025-02-19 05:01:15 | DEBUG | Initializing tokenizer and model
+2025-02-19 05:01:16 | DEBUG | Initializing tokenizer and model

@@ -1,0 +1,108 @@
+2025-02-19 04:04:33 | INFO | Starting the model...
+2025-02-19 04:04:35 | INFO | Unique UriQuery values: 21229
+2025-02-19 04:04:35 | INFO | Initializing Model
+2025-02-19 04:04:37 | DEBUG | Benign: 11051 samples
+2025-02-19 04:04:37 | DEBUG | LFI: 2220 samples
+2025-02-19 04:04:37 | DEBUG | RCE: 491 samples
+2025-02-19 04:04:37 | DEBUG | RFI: 2001 samples
+2025-02-19 04:04:38 | DEBUG | SQLi: 2002 samples
+2025-02-19 04:04:38 | DEBUG | XSS: 7914 samples
+2025-02-19 04:04:38 | INFO | Len: 25679
+2025-02-19 04:09:10 | INFO | Found 0 out of 25679
+2025-02-19 04:09:10 | INFO | Running Time: 272.22527265548706
+2025-02-19 04:19:56 | WARNING | Current: cuda
+2025-02-19 04:19:56 | INFO | Starting the model...
+2025-02-19 04:19:58 | INFO | Unique UriQuery values: 21229
+2025-02-19 04:19:58 | INFO | Initializing Model
+2025-02-19 04:20:02 | DEBUG | Benign: 11051 samples
+2025-02-19 04:20:02 | DEBUG | LFI: 2220 samples
+2025-02-19 04:20:02 | DEBUG | RCE: 491 samples
+2025-02-19 04:20:02 | DEBUG | RFI: 2001 samples
+2025-02-19 04:20:02 | DEBUG | SQLi: 2002 samples
+2025-02-19 04:20:02 | DEBUG | XSS: 7914 samples
+2025-02-19 04:20:02 | INFO | Len: 25679
+2025-02-19 04:24:22 | ERROR | Error in model execution: object of type 'int' has no len()
+2025-02-19 04:26:55 | WARNING | Current: cuda
+2025-02-19 04:26:55 | INFO | Starting the model...
+2025-02-19 04:26:56 | INFO | Unique UriQuery values: 21229
+2025-02-19 04:26:56 | INFO | Initializing Model
+2025-02-19 04:26:58 | DEBUG | Benign: 11051 samples
+2025-02-19 04:26:58 | DEBUG | LFI: 2220 samples
+2025-02-19 04:26:58 | DEBUG | RCE: 491 samples
+2025-02-19 04:26:58 | DEBUG | RFI: 2001 samples
+2025-02-19 04:26:58 | DEBUG | SQLi: 2002 samples
+2025-02-19 04:26:58 | DEBUG | XSS: 7914 samples
+2025-02-19 04:26:58 | INFO | Len: 25679
+2025-02-19 04:31:10 | INFO | Found 7818 out of 7914
+2025-02-19 04:31:10 | INFO | Found 1600 out of 2001
+2025-02-19 04:31:10 | INFO | Found 1298 out of 2220
+2025-02-19 04:31:10 | INFO | Found 514 out of 491
+2025-02-19 04:31:10 | INFO | Found 1856 out of 2002
+2025-02-19 04:31:10 | INFO | Found 12593 out of 11051
+2025-02-19 04:31:10 | INFO | Running Time: 252.37431049346924
+2025-02-19 04:51:06 | WARNING | Current: cuda
+2025-02-19 04:51:06 | INFO | Starting the model...
+2025-02-19 04:51:08 | INFO | Unique UriQuery values: 21229
+2025-02-19 04:51:08 | INFO | Initializing Model
+2025-02-19 04:51:10 | DEBUG | Benign: 11051 samples
+2025-02-19 04:51:10 | DEBUG | LFI: 2220 samples
+2025-02-19 04:51:10 | DEBUG | RCE: 491 samples
+2025-02-19 04:51:10 | DEBUG | RFI: 2001 samples
+2025-02-19 04:51:10 | DEBUG | SQLi: 2002 samples
+2025-02-19 04:51:10 | DEBUG | XSS: 7914 samples
+2025-02-19 04:51:10 | INFO | Len: 25679
+2025-02-19 04:55:23 | ERROR | Error in model execution: Set changed size during iteration
+2025-02-19 05:01:14 | WARNING | Current: cuda
+2025-02-19 05:01:14 | INFO | Starting the model...
+2025-02-19 05:01:15 | INFO | Unique UriQuery values: 21229
+2025-02-19 05:01:15 | INFO | Initializing Model
+2025-02-19 05:01:17 | DEBUG | Benign: 11051 samples
+2025-02-19 05:01:17 | DEBUG | LFI: 2220 samples
+2025-02-19 05:01:17 | DEBUG | RCE: 491 samples
+2025-02-19 05:01:17 | DEBUG | RFI: 2001 samples
+2025-02-19 05:01:17 | DEBUG | SQLi: 2002 samples
+2025-02-19 05:01:17 | DEBUG | XSS: 7914 samples
+2025-02-19 05:01:17 | INFO | Len: 25679
+2025-02-19 05:05:27 | INFO | Found 7731 out of 7914
+2025-02-19 05:05:27 | INFO | Found 1331 out of 2001
+2025-02-19 05:05:27 | INFO | Found 939 out of 2220
+2025-02-19 05:05:27 | INFO | Found 138 out of 491
+2025-02-19 05:05:27 | INFO | Found 1722 out of 2002
+2025-02-19 05:05:27 | INFO | Found 10314 out of 11051
+2025-02-19 05:05:27 | WARNING | Mismatched 87 XSS, Remaining: 183
+2025-02-19 05:05:27 | WARNING | Mismatched 1539 Benign, Remaining: 2
+2025-02-19 05:05:27 | WARNING | Mismatched 133 SQLi, Remaining: 280
+2025-02-19 05:05:27 | WARNING | Mismatched 359 LFI, Remaining: 1281
+2025-02-19 05:05:27 | WARNING | Mismatched 375 RCE, Remaining: 353
+2025-02-19 05:05:27 | WARNING | Mismatched 269 RFI, Remaining: 670
+2025-02-19 05:05:27 | DEBUG | XSS misclassified as RFI: 54
+2025-02-19 05:05:27 | DEBUG | XSS misclassified as LFI: 16
+2025-02-19 05:05:27 | DEBUG | XSS misclassified as RCE: 4
+2025-02-19 05:05:27 | DEBUG | XSS misclassified as SQLi: 34
+2025-02-19 05:05:27 | DEBUG | XSS misclassified as Benign: 75
+2025-02-19 05:05:27 | DEBUG | RFI misclassified as XSS: 22
+2025-02-19 05:05:27 | DEBUG | RFI misclassified as LFI: 299
+2025-02-19 05:05:27 | DEBUG | RFI misclassified as RCE: 96
+2025-02-19 05:05:27 | DEBUG | RFI misclassified as SQLi: 1
+2025-02-19 05:05:27 | DEBUG | RFI misclassified as Benign: 252
+2025-02-19 05:05:27 | DEBUG | LFI misclassified as XSS: 16
+2025-02-19 05:05:27 | DEBUG | LFI misclassified as RFI: 180
+2025-02-19 05:05:27 | DEBUG | LFI misclassified as RCE: 240
+2025-02-19 05:05:27 | DEBUG | LFI misclassified as SQLi: 21
+2025-02-19 05:05:27 | DEBUG | LFI misclassified as Benign: 824
+2025-02-19 05:05:27 | DEBUG | RCE misclassified as XSS: 46
+2025-02-19 05:05:27 | DEBUG | RCE misclassified as RFI: 34
+2025-02-19 05:05:27 | DEBUG | RCE misclassified as LFI: 30
+2025-02-19 05:05:27 | DEBUG | RCE misclassified as SQLi: 76
+2025-02-19 05:05:27 | DEBUG | RCE misclassified as Benign: 166
+2025-02-19 05:05:27 | DEBUG | SQLi misclassified as XSS: 3
+2025-02-19 05:05:27 | DEBUG | SQLi misclassified as RFI: 0
+2025-02-19 05:05:27 | DEBUG | SQLi misclassified as LFI: 14
+2025-02-19 05:05:27 | DEBUG | SQLi misclassified as RCE: 35
+2025-02-19 05:05:27 | DEBUG | SQLi misclassified as Benign: 227
+2025-02-19 05:05:27 | DEBUG | Benign misclassified as XSS: 0
+2025-02-19 05:05:27 | DEBUG | Benign misclassified as RFI: 1
+2025-02-19 05:05:27 | DEBUG | Benign misclassified as LFI: 0
+2025-02-19 05:05:27 | DEBUG | Benign misclassified as RCE: 0
+2025-02-19 05:05:27 | DEBUG | Benign misclassified as SQLi: 1
+2025-02-19 05:05:27 | INFO | Running Time: 250.29974675178528
