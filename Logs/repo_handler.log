@@ -1,0 +1,805 @@
+2025-02-18 03:08:27 | INFO | Starting the model...
+2025-02-18 03:08:27 | INFO | Initializing Repository Handler
+2025-02-18 03:08:27 | INFO | Loading Data from Excel...
+2025-02-18 03:08:28 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 03:08:28 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 03:08:28 | INFO | Randomizing dataset 5 times...
+2025-02-18 03:08:28 | INFO | Dataset successfully randomized!
+2025-02-18 03:08:28 | INFO | Repository successfully initialized!
+2025-02-18 03:08:28 | INFO | Unique UriQuery values: 21229
+2025-02-18 03:08:28 | DEBUG | Training model...
+2025-02-18 03:08:28 | ERROR | Error in model execution: name 'vectorizer' is not defined
+2025-02-18 17:56:10 | INFO | Starting the model...
+2025-02-18 17:56:10 | INFO | Initializing Repository Handler
+2025-02-18 17:56:10 | INFO | Loading Data from Excel...
+2025-02-18 17:56:12 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 17:56:12 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 17:56:12 | INFO | Randomizing dataset 5 times...
+2025-02-18 17:56:12 | INFO | Dataset successfully randomized!
+2025-02-18 17:56:12 | INFO | Repository successfully initialized!
+2025-02-18 17:56:12 | INFO | Unique UriQuery values: 21229
+2025-02-18 17:56:12 | ERROR | Error in model execution: name 'pd' is not defined
+2025-02-18 17:57:16 | INFO | Starting the model...
+2025-02-18 17:57:16 | INFO | Initializing Repository Handler
+2025-02-18 17:57:16 | INFO | Loading Data from Excel...
+2025-02-18 17:57:18 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 17:57:18 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 17:57:18 | INFO | Randomizing dataset 5 times...
+2025-02-18 17:57:18 | INFO | Dataset successfully randomized!
+2025-02-18 17:57:18 | INFO | Repository successfully initialized!
+2025-02-18 17:57:18 | INFO | Unique UriQuery values: 21229
+2025-02-18 17:59:15 | INFO | Starting the model...
+2025-02-18 17:59:15 | INFO | Initializing Repository Handler
+2025-02-18 17:59:15 | INFO | Loading Data from Excel...
+2025-02-18 17:59:17 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 17:59:17 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 17:59:17 | INFO | Randomizing dataset 5 times...
+2025-02-18 17:59:17 | INFO | Dataset successfully randomized!
+2025-02-18 17:59:17 | INFO | Repository successfully initialized!
+2025-02-18 17:59:17 | INFO | Unique UriQuery values: 21229
+2025-02-18 18:07:45 | INFO | Starting the model...
+2025-02-18 18:07:45 | INFO | Initializing Repository Handler
+2025-02-18 18:07:45 | INFO | Loading Data from Excel...
+2025-02-18 18:07:47 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 18:07:47 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 18:07:47 | INFO | Randomizing dataset 5 times...
+2025-02-18 18:07:47 | INFO | Dataset successfully randomized!
+2025-02-18 18:07:47 | INFO | Repository successfully initialized!
+2025-02-18 18:07:47 | INFO | Unique UriQuery values: 21229
+2025-02-18 18:07:51 | ERROR | Error in model execution: Using the `Trainer` with `PyTorch` requires `accelerate>=0.26.0`: Please run `pip install transformers[torch]` or `pip install 'accelerate>=0.26.0'`
+2025-02-18 18:08:19 | INFO | Starting the model...
+2025-02-18 18:08:19 | INFO | Initializing Repository Handler
+2025-02-18 18:08:19 | INFO | Loading Data from Excel...
+2025-02-18 18:08:20 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 18:08:20 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 18:08:21 | INFO | Randomizing dataset 5 times...
+2025-02-18 18:08:21 | INFO | Dataset successfully randomized!
+2025-02-18 18:08:21 | INFO | Repository successfully initialized!
+2025-02-18 18:08:21 | INFO | Unique UriQuery values: 21229
+2025-02-18 18:08:25 | ERROR | Error in model execution: Using the `Trainer` with `PyTorch` requires `accelerate>=0.26.0`: Please run `pip install transformers[torch]` or `pip install 'accelerate>=0.26.0'`
+2025-02-18 18:10:15 | INFO | Starting the model...
+2025-02-18 18:10:15 | INFO | Initializing Repository Handler
+2025-02-18 18:10:15 | INFO | Loading Data from Excel...
+2025-02-18 18:10:17 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 18:10:17 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 18:10:17 | INFO | Randomizing dataset 5 times...
+2025-02-18 18:10:17 | INFO | Dataset successfully randomized!
+2025-02-18 18:10:17 | INFO | Repository successfully initialized!
+2025-02-18 18:10:17 | INFO | Unique UriQuery values: 21229
+2025-02-18 18:10:20 | ERROR | Error in model execution: Using the `Trainer` with `PyTorch` requires `accelerate>=0.26.0`: Please run `pip install transformers[torch]` or `pip install 'accelerate>=0.26.0'`
+2025-02-18 18:11:29 | INFO | Starting the model...
+2025-02-18 18:11:29 | INFO | Initializing Repository Handler
+2025-02-18 18:11:29 | INFO | Loading Data from Excel...
+2025-02-18 18:11:31 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 18:11:31 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 18:11:31 | INFO | Randomizing dataset 5 times...
+2025-02-18 18:11:31 | INFO | Dataset successfully randomized!
+2025-02-18 18:11:31 | INFO | Repository successfully initialized!
+2025-02-18 18:11:31 | INFO | Unique UriQuery values: 21229
+2025-02-18 18:11:35 | ERROR | Error in model execution: Using the `Trainer` with `PyTorch` requires `accelerate>=0.26.0`: Please run `pip install transformers[torch]` or `pip install 'accelerate>=0.26.0'`
+2025-02-18 18:12:34 | INFO | Starting the model...
+2025-02-18 18:12:34 | INFO | Initializing Repository Handler
+2025-02-18 18:12:34 | INFO | Loading Data from Excel...
+2025-02-18 18:12:36 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 18:12:36 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 18:12:36 | INFO | Randomizing dataset 5 times...
+2025-02-18 18:12:36 | INFO | Dataset successfully randomized!
+2025-02-18 18:12:36 | INFO | Repository successfully initialized!
+2025-02-18 18:12:36 | INFO | Unique UriQuery values: 21229
+2025-02-18 18:12:39 | ERROR | Error in model execution: Using the `Trainer` with `PyTorch` requires `accelerate>=0.26.0`: Please run `pip install transformers[torch]` or `pip install 'accelerate>=0.26.0'`
+2025-02-18 18:13:25 | INFO | Starting the model...
+2025-02-18 18:13:25 | INFO | Initializing Repository Handler
+2025-02-18 18:13:25 | INFO | Loading Data from Excel...
+2025-02-18 18:13:25 | ERROR | Error loading data: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-02-18 18:13:25 | ERROR | Error during initialization: cannot concatenate object of type '<class 'list'>'; only Series and DataFrame objs are valid
+2025-02-18 18:13:25 | ERROR | Error in model execution: 'repo_handler' object has no attribute 'full_data'
+2025-02-18 18:14:04 | INFO | Starting the model...
+2025-02-18 18:14:04 | INFO | Initializing Repository Handler
+2025-02-18 18:14:04 | INFO | Loading Data from Excel...
+2025-02-18 18:14:08 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 18:14:08 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 18:14:08 | INFO | Randomizing dataset 5 times...
+2025-02-18 18:14:08 | INFO | Dataset successfully randomized!
+2025-02-18 18:14:08 | INFO | Repository successfully initialized!
+2025-02-18 18:14:08 | INFO | Unique UriQuery values: 21229
+2025-02-18 19:06:59 | INFO | Starting the model...
+2025-02-18 19:06:59 | INFO | Initializing Repository Handler
+2025-02-18 19:06:59 | INFO | Loading Data from Excel...
+2025-02-18 19:07:00 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 19:07:00 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 19:07:00 | INFO | Randomizing dataset 5 times...
+2025-02-18 19:07:00 | INFO | Dataset successfully randomized!
+2025-02-18 19:07:00 | INFO | Repository successfully initialized!
+2025-02-18 19:07:01 | INFO | Unique UriQuery values: 21229
+2025-02-18 19:08:56 | INFO | Starting the model...
+2025-02-18 19:08:56 | INFO | Initializing Repository Handler
+2025-02-18 19:08:56 | INFO | Loading Data from Excel...
+2025-02-18 19:10:15 | INFO | Starting the model...
+2025-02-18 19:10:15 | INFO | Initializing Repository Handler
+2025-02-18 19:10:15 | INFO | Loading Data from Excel...
+2025-02-18 19:47:56 | INFO | Starting the model...
+2025-02-18 19:47:56 | INFO | Initializing Repository Handler
+2025-02-18 19:47:56 | INFO | Loading Data from Excel...
+2025-02-18 20:26:00 | INFO | Starting the model...
+2025-02-18 20:26:00 | INFO | Initializing Repository Handler
+2025-02-18 20:26:00 | INFO | Loading Data from Excel...
+2025-02-18 20:26:01 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:26:01 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:26:01 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:26:01 | INFO | Dataset successfully randomized!
+2025-02-18 20:26:01 | INFO | Repository successfully initialized!
+2025-02-18 20:26:01 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:29:29 | INFO | Starting the model...
+2025-02-18 20:29:29 | INFO | Initializing Repository Handler
+2025-02-18 20:29:29 | INFO | Loading Data from Excel...
+2025-02-18 20:29:30 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:29:30 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:29:30 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:29:30 | INFO | Dataset successfully randomized!
+2025-02-18 20:29:30 | INFO | Repository successfully initialized!
+2025-02-18 20:29:30 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:34:39 | INFO | Starting the model...
+2025-02-18 20:34:39 | INFO | Initializing Repository Handler
+2025-02-18 20:34:39 | INFO | Loading Data from Excel...
+2025-02-18 20:34:41 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:34:41 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:34:41 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:34:41 | INFO | Dataset successfully randomized!
+2025-02-18 20:34:41 | INFO | Repository successfully initialized!
+2025-02-18 20:34:41 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:42:21 | INFO | Starting the model...
+2025-02-18 20:42:21 | INFO | Initializing Repository Handler
+2025-02-18 20:42:21 | INFO | Loading Data from Excel...
+2025-02-18 20:42:22 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:42:22 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:42:22 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:42:22 | INFO | Dataset successfully randomized!
+2025-02-18 20:42:22 | INFO | Repository successfully initialized!
+2025-02-18 20:42:22 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:53:46 | INFO | Starting the model...
+2025-02-18 20:53:46 | INFO | Initializing Repository Handler
+2025-02-18 20:53:46 | INFO | Loading Data from Excel...
+2025-02-18 20:53:48 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:53:48 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:53:48 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:53:48 | INFO | Dataset successfully randomized!
+2025-02-18 20:53:48 | INFO | Repository successfully initialized!
+2025-02-18 20:53:48 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:55:46 | INFO | Starting the model...
+2025-02-18 20:55:46 | INFO | Initializing Repository Handler
+2025-02-18 20:55:46 | INFO | Loading Data from Excel...
+2025-02-18 20:55:47 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:55:47 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:55:47 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:55:47 | INFO | Dataset successfully randomized!
+2025-02-18 20:55:47 | INFO | Repository successfully initialized!
+2025-02-18 20:55:47 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:55:47 | ERROR | Error in model execution: 'rfi_samples'
+2025-02-18 20:56:21 | INFO | Starting the model...
+2025-02-18 20:56:21 | INFO | Initializing Repository Handler
+2025-02-18 20:56:21 | INFO | Loading Data from Excel...
+2025-02-18 20:56:23 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:56:23 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:56:23 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:56:23 | INFO | Dataset successfully randomized!
+2025-02-18 20:56:23 | INFO | Repository successfully initialized!
+2025-02-18 20:56:23 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:56:23 | ERROR | Error in model execution: 'sqli_samples'
+2025-02-18 20:56:45 | INFO | Starting the model...
+2025-02-18 20:56:45 | INFO | Initializing Repository Handler
+2025-02-18 20:56:45 | INFO | Loading Data from Excel...
+2025-02-18 20:56:47 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:56:47 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:56:47 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:56:47 | INFO | Dataset successfully randomized!
+2025-02-18 20:56:47 | INFO | Repository successfully initialized!
+2025-02-18 20:56:47 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:56:47 | ERROR | Error in model execution: 'xss_samples'
+2025-02-18 20:57:46 | INFO | Starting the model...
+2025-02-18 20:57:46 | INFO | Initializing Repository Handler
+2025-02-18 20:57:46 | INFO | Loading Data from Excel...
+2025-02-18 20:57:47 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:57:47 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:57:47 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:57:47 | INFO | Dataset successfully randomized!
+2025-02-18 20:57:47 | INFO | Repository successfully initialized!
+2025-02-18 20:57:47 | INFO | Unique UriQuery values: 21229
+2025-02-18 20:59:28 | INFO | Starting the model...
+2025-02-18 20:59:28 | INFO | Initializing Repository Handler
+2025-02-18 20:59:28 | INFO | Loading Data from Excel...
+2025-02-18 20:59:30 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 20:59:30 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 20:59:30 | INFO | Randomizing dataset 5 times...
+2025-02-18 20:59:30 | INFO | Dataset successfully randomized!
+2025-02-18 20:59:30 | INFO | Repository successfully initialized!
+2025-02-18 20:59:30 | INFO | Unique UriQuery values: 21229
+2025-02-18 21:00:01 | INFO | Starting the model...
+2025-02-18 21:00:01 | INFO | Initializing Repository Handler
+2025-02-18 21:00:01 | INFO | Loading Data from Excel...
+2025-02-18 21:00:03 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 21:00:03 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 21:00:03 | INFO | Randomizing dataset 5 times...
+2025-02-18 21:00:03 | INFO | Dataset successfully randomized!
+2025-02-18 21:00:03 | INFO | Repository successfully initialized!
+2025-02-18 21:00:03 | INFO | Unique UriQuery values: 21229
+2025-02-18 21:09:14 | INFO | Starting the model...
+2025-02-18 21:09:14 | INFO | Initializing Repository Handler
+2025-02-18 21:09:14 | INFO | Loading Data from Excel...
+2025-02-18 21:09:16 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 21:09:16 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 21:09:16 | INFO | Randomizing dataset 5 times...
+2025-02-18 21:09:16 | INFO | Dataset successfully randomized!
+2025-02-18 21:09:16 | INFO | Repository successfully initialized!
+2025-02-18 21:09:16 | INFO | Unique UriQuery values: 21229
+2025-02-18 21:20:49 | ERROR | Error in model execution: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+2025-02-18 21:23:35 | INFO | Starting the model...
+2025-02-18 21:23:35 | INFO | Initializing Repository Handler
+2025-02-18 21:23:35 | INFO | Loading Data from Excel...
+2025-02-18 21:23:36 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 21:23:36 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 21:23:36 | INFO | Randomizing dataset 5 times...
+2025-02-18 21:23:36 | INFO | Dataset successfully randomized!
+2025-02-18 21:23:36 | INFO | Repository successfully initialized!
+2025-02-18 21:23:36 | INFO | Unique UriQuery values: 21229
+2025-02-18 21:24:16 | INFO | Starting the model...
+2025-02-18 21:24:16 | INFO | Initializing Repository Handler
+2025-02-18 21:24:16 | INFO | Loading Data from Excel...
+2025-02-18 21:24:17 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 21:24:17 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 21:24:17 | INFO | Randomizing dataset 5 times...
+2025-02-18 21:24:17 | INFO | Dataset successfully randomized!
+2025-02-18 21:24:17 | INFO | Repository successfully initialized!
+2025-02-18 21:24:18 | INFO | Unique UriQuery values: 21229
+2025-02-18 21:36:19 | ERROR | Error in model execution: "The `metric_for_best_model` training argument is set to 'eval_accuracy', which is not found in the evaluation metrics. The available evaluation metrics are: ['eval_loss', 'eval_Accuracy', 'eval_precision', 'eval_recall', 'eval_f1', 'eval_runtime', 'eval_samples_per_second', 'eval_steps_per_second', 'epoch']. Consider changing the `metric_for_best_model` via the TrainingArguments."
+2025-02-18 21:40:53 | INFO | Starting the model...
+2025-02-18 21:40:53 | INFO | Initializing Repository Handler
+2025-02-18 21:40:53 | INFO | Loading Data from Excel...
+2025-02-18 21:40:54 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 21:40:54 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 21:40:54 | INFO | Randomizing dataset 5 times...
+2025-02-18 21:40:54 | INFO | Dataset successfully randomized!
+2025-02-18 21:40:54 | INFO | Repository successfully initialized!
+2025-02-18 21:40:54 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:07:06 | INFO | Starting the model...
+2025-02-18 22:07:06 | INFO | Initializing Repository Handler
+2025-02-18 22:07:06 | INFO | Loading Data from Excel...
+2025-02-18 22:07:07 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:07:07 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:07:07 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:07:07 | INFO | Dataset successfully randomized!
+2025-02-18 22:07:07 | INFO | Repository successfully initialized!
+2025-02-18 22:07:07 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:07:27 | INFO | Starting the model...
+2025-02-18 22:07:27 | INFO | Initializing Repository Handler
+2025-02-18 22:07:27 | INFO | Loading Data from Excel...
+2025-02-18 22:08:40 | INFO | Starting the model...
+2025-02-18 22:08:40 | INFO | Initializing Repository Handler
+2025-02-18 22:08:40 | INFO | Loading Data from Excel...
+2025-02-18 22:08:42 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:08:42 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:08:42 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:08:42 | INFO | Dataset successfully randomized!
+2025-02-18 22:08:42 | INFO | Repository successfully initialized!
+2025-02-18 22:08:42 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:08:42 | ERROR | Error in model execution: 'DataFrame' object has no attribute 'full_data_df'
+2025-02-18 22:09:03 | INFO | Starting the model...
+2025-02-18 22:09:03 | INFO | Initializing Repository Handler
+2025-02-18 22:09:03 | INFO | Loading Data from Excel...
+2025-02-18 22:09:04 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:09:04 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:09:04 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:09:04 | INFO | Dataset successfully randomized!
+2025-02-18 22:09:04 | INFO | Repository successfully initialized!
+2025-02-18 22:09:04 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:09:45 | INFO | Starting the model...
+2025-02-18 22:09:45 | INFO | Initializing Repository Handler
+2025-02-18 22:09:45 | INFO | Loading Data from Excel...
+2025-02-18 22:09:46 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:09:46 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:09:46 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:09:46 | INFO | Dataset successfully randomized!
+2025-02-18 22:09:46 | INFO | Repository successfully initialized!
+2025-02-18 22:09:46 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:16:17 | INFO | Starting the model...
+2025-02-18 22:16:17 | INFO | Initializing Repository Handler
+2025-02-18 22:16:17 | INFO | Loading Data from Excel...
+2025-02-18 22:16:18 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:16:18 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:16:18 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:16:18 | INFO | Dataset successfully randomized!
+2025-02-18 22:16:18 | INFO | Repository successfully initialized!
+2025-02-18 22:16:18 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:16:36 | INFO | Starting the model...
+2025-02-18 22:16:36 | INFO | Initializing Repository Handler
+2025-02-18 22:16:36 | INFO | Loading Data from Excel...
+2025-02-18 22:16:37 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:16:37 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:16:37 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:16:37 | INFO | Dataset successfully randomized!
+2025-02-18 22:16:37 | INFO | Repository successfully initialized!
+2025-02-18 22:16:37 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:22:25 | INFO | Starting the model...
+2025-02-18 22:22:25 | INFO | Initializing Repository Handler
+2025-02-18 22:22:25 | INFO | Loading Data from Excel...
+2025-02-18 22:22:27 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:22:27 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:22:27 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:22:27 | INFO | Dataset successfully randomized!
+2025-02-18 22:22:27 | INFO | Repository successfully initialized!
+2025-02-18 22:22:27 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:22:27 | ERROR | Error in model execution: 0
+2025-02-18 22:23:08 | INFO | Starting the model...
+2025-02-18 22:23:08 | INFO | Initializing Repository Handler
+2025-02-18 22:23:08 | INFO | Loading Data from Excel...
+2025-02-18 22:23:09 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:23:09 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:23:09 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:23:09 | INFO | Dataset successfully randomized!
+2025-02-18 22:23:09 | INFO | Repository successfully initialized!
+2025-02-18 22:23:09 | INFO | Unique UriQuery values: 21229
+2025-02-18 22:52:12 | INFO | Starting the model...
+2025-02-18 22:52:12 | INFO | Initializing Repository Handler
+2025-02-18 22:52:12 | INFO | Loading Data from Excel...
+2025-02-18 22:52:14 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 22:52:14 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 22:52:14 | INFO | Randomizing dataset 5 times...
+2025-02-18 22:52:14 | INFO | Dataset successfully randomized!
+2025-02-18 22:52:14 | INFO | Repository successfully initialized!
+2025-02-18 22:52:14 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:23:25 | INFO | Starting the model...
+2025-02-18 23:23:25 | INFO | Initializing Repository Handler
+2025-02-18 23:23:25 | INFO | Loading Data from Excel...
+2025-02-18 23:23:26 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:23:26 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:23:26 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:23:26 | INFO | Dataset successfully randomized!
+2025-02-18 23:23:26 | INFO | Repository successfully initialized!
+2025-02-18 23:23:26 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:23:26 | INFO | Initializing Model
+2025-02-18 23:24:24 | ERROR | Error in model execution: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0! (when checking argument for argument index in method wrapper_CUDA__index_select)
+2025-02-18 23:30:51 | INFO | Starting the model...
+2025-02-18 23:30:51 | INFO | Initializing Repository Handler
+2025-02-18 23:30:51 | INFO | Loading Data from Excel...
+2025-02-18 23:30:53 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:30:53 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:30:53 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:30:53 | INFO | Dataset successfully randomized!
+2025-02-18 23:30:53 | INFO | Repository successfully initialized!
+2025-02-18 23:30:53 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:30:53 | INFO | Initializing Model
+2025-02-18 23:34:14 | INFO | Starting the model...
+2025-02-18 23:34:14 | INFO | Initializing Repository Handler
+2025-02-18 23:34:14 | INFO | Loading Data from Excel...
+2025-02-18 23:34:15 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:34:15 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:34:15 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:34:16 | INFO | Dataset successfully randomized!
+2025-02-18 23:34:16 | INFO | Repository successfully initialized!
+2025-02-18 23:34:16 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:34:16 | INFO | Initializing Model
+2025-02-18 23:36:57 | INFO | Starting the model...
+2025-02-18 23:36:57 | INFO | Initializing Repository Handler
+2025-02-18 23:36:57 | INFO | Loading Data from Excel...
+2025-02-18 23:36:58 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:36:58 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:36:58 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:36:58 | INFO | Dataset successfully randomized!
+2025-02-18 23:36:58 | INFO | Repository successfully initialized!
+2025-02-18 23:36:58 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:36:58 | INFO | Initializing Model
+2025-02-18 23:36:58 | ERROR | Error in model execution: Can't load tokenizer for 'uri_queries_web_attack_detection'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'uri_queries_web_attack_detection' is the correct path to a directory containing all relevant files for a BertTokenizerFast tokenizer.
+2025-02-18 23:37:34 | INFO | Starting the model...
+2025-02-18 23:37:34 | INFO | Initializing Repository Handler
+2025-02-18 23:37:34 | INFO | Loading Data from Excel...
+2025-02-18 23:37:35 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:37:35 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:37:35 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:37:35 | INFO | Dataset successfully randomized!
+2025-02-18 23:37:35 | INFO | Repository successfully initialized!
+2025-02-18 23:37:35 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:37:35 | INFO | Initializing Model
+2025-02-18 23:37:35 | ERROR | Error in model execution: Can't load tokenizer for 'uri_queries_web_attack_detection'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'uri_queries_web_attack_detection' is the correct path to a directory containing all relevant files for a BertTokenizerFast tokenizer.
+2025-02-18 23:38:02 | INFO | Starting the model...
+2025-02-18 23:38:02 | INFO | Initializing Repository Handler
+2025-02-18 23:38:02 | INFO | Loading Data from Excel...
+2025-02-18 23:38:04 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:38:04 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:38:04 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:38:04 | INFO | Dataset successfully randomized!
+2025-02-18 23:38:04 | INFO | Repository successfully initialized!
+2025-02-18 23:38:04 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:38:04 | INFO | Initializing Model
+2025-02-18 23:39:36 | INFO | Starting the model...
+2025-02-18 23:39:36 | INFO | Initializing Repository Handler
+2025-02-18 23:39:36 | INFO | Loading Data from Excel...
+2025-02-18 23:39:37 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:39:37 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:39:37 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:39:38 | INFO | Dataset successfully randomized!
+2025-02-18 23:39:38 | INFO | Repository successfully initialized!
+2025-02-18 23:39:38 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:39:38 | INFO | Initializing Model
+2025-02-18 23:39:38 | ERROR | Error in model execution: BERT.load_model() takes 1 positional argument but 2 were given
+2025-02-18 23:40:16 | INFO | Starting the model...
+2025-02-18 23:40:16 | INFO | Initializing Repository Handler
+2025-02-18 23:40:16 | INFO | Loading Data from Excel...
+2025-02-18 23:40:18 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:40:18 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:40:18 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:40:18 | INFO | Dataset successfully randomized!
+2025-02-18 23:40:18 | INFO | Repository successfully initialized!
+2025-02-18 23:40:18 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:40:18 | INFO | Initializing Model
+2025-02-18 23:40:18 | ERROR | Error in model execution: BERT.load_model() takes 1 positional argument but 2 were given
+2025-02-18 23:40:35 | INFO | Starting the model...
+2025-02-18 23:40:35 | INFO | Initializing Repository Handler
+2025-02-18 23:40:35 | INFO | Loading Data from Excel...
+2025-02-18 23:40:37 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:40:37 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:40:37 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:40:37 | INFO | Dataset successfully randomized!
+2025-02-18 23:40:37 | INFO | Repository successfully initialized!
+2025-02-18 23:40:37 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:40:37 | INFO | Initializing Model
+2025-02-18 23:42:13 | INFO | Starting the model...
+2025-02-18 23:42:13 | INFO | Initializing Repository Handler
+2025-02-18 23:42:13 | INFO | Loading Data from Excel...
+2025-02-18 23:42:14 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:42:14 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:42:14 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:42:14 | INFO | Dataset successfully randomized!
+2025-02-18 23:42:14 | INFO | Repository successfully initialized!
+2025-02-18 23:42:14 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:42:14 | INFO | Initializing Model
+2025-02-18 23:51:06 | INFO | Starting the model...
+2025-02-18 23:51:06 | INFO | Initializing Repository Handler
+2025-02-18 23:51:06 | INFO | Loading Data from Excel...
+2025-02-18 23:51:08 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-18 23:51:08 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-18 23:51:08 | INFO | Randomizing dataset 5 times...
+2025-02-18 23:51:08 | INFO | Dataset successfully randomized!
+2025-02-18 23:51:08 | INFO | Repository successfully initialized!
+2025-02-18 23:51:08 | INFO | Unique UriQuery values: 21229
+2025-02-18 23:51:08 | INFO | Initializing Model
+2025-02-19 00:04:31 | INFO | Starting the model...
+2025-02-19 00:04:31 | INFO | Initializing Repository Handler
+2025-02-19 00:04:31 | INFO | Loading Data from Excel...
+2025-02-19 00:04:33 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:04:33 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:04:33 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:04:33 | INFO | Dataset successfully randomized!
+2025-02-19 00:04:33 | INFO | Repository successfully initialized!
+2025-02-19 00:04:33 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:04:33 | INFO | Initializing Model
+2025-02-19 00:04:33 | ERROR | Error in model execution: name 'text' is not defined
+2025-02-19 00:05:34 | INFO | Starting the model...
+2025-02-19 00:05:34 | INFO | Initializing Repository Handler
+2025-02-19 00:05:34 | INFO | Loading Data from Excel...
+2025-02-19 00:05:35 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:05:35 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:05:35 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:05:35 | INFO | Dataset successfully randomized!
+2025-02-19 00:05:35 | INFO | Repository successfully initialized!
+2025-02-19 00:05:35 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:05:35 | INFO | Initializing Model
+2025-02-19 00:05:36 | ERROR | Error in model execution: 'list' object has no attribute 'values'
+2025-02-19 00:06:10 | INFO | Starting the model...
+2025-02-19 00:06:10 | INFO | Initializing Repository Handler
+2025-02-19 00:06:10 | INFO | Loading Data from Excel...
+2025-02-19 00:06:11 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:06:11 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:06:11 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:06:11 | INFO | Dataset successfully randomized!
+2025-02-19 00:06:11 | INFO | Repository successfully initialized!
+2025-02-19 00:06:11 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:06:11 | INFO | Initializing Model
+2025-02-19 00:06:14 | ERROR | Error in model execution: 
+TFAutoModelForSequenceClassification requires the TensorFlow library but it was not found in your environment.
+However, we were able to find a PyTorch installation. PyTorch classes do not begin
+with "TF", but are otherwise identically named to our TF classes.
+If you want to use PyTorch, please use those classes instead!
+
+If you really do want to use TensorFlow, please follow the instructions on the
+installation page https://www.tensorflow.org/install that match your environment.
+
+2025-02-19 00:14:46 | INFO | Starting the model...
+2025-02-19 00:14:46 | INFO | Initializing Repository Handler
+2025-02-19 00:14:46 | INFO | Loading Data from Excel...
+2025-02-19 00:14:48 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:14:48 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:14:48 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:14:48 | INFO | Dataset successfully randomized!
+2025-02-19 00:14:48 | INFO | Repository successfully initialized!
+2025-02-19 00:14:48 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:14:48 | INFO | Initializing Model
+2025-02-19 00:14:49 | ERROR | Error in model execution: name 'text' is not defined
+2025-02-19 00:15:35 | INFO | Starting the model...
+2025-02-19 00:15:35 | INFO | Initializing Repository Handler
+2025-02-19 00:15:35 | INFO | Loading Data from Excel...
+2025-02-19 00:15:37 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:15:37 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:15:37 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:15:37 | INFO | Dataset successfully randomized!
+2025-02-19 00:15:37 | INFO | Repository successfully initialized!
+2025-02-19 00:15:37 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:15:37 | INFO | Initializing Model
+2025-02-19 00:17:16 | ERROR | Error in model execution: 'BERT' object has no attribute 'compute_metrics'
+2025-02-19 00:25:32 | INFO | Starting the model...
+2025-02-19 00:25:32 | INFO | Initializing Repository Handler
+2025-02-19 00:25:32 | INFO | Loading Data from Excel...
+2025-02-19 00:25:35 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:25:35 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:25:35 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:25:35 | INFO | Dataset successfully randomized!
+2025-02-19 00:25:35 | INFO | Repository successfully initialized!
+2025-02-19 00:25:35 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:25:35 | INFO | Initializing Model
+2025-02-19 00:25:36 | ERROR | Error in model execution: [Errno 22] Invalid argument: './Repository/test\\RCE.csv'
+2025-02-19 00:26:44 | INFO | Starting the model...
+2025-02-19 00:26:44 | INFO | Initializing Repository Handler
+2025-02-19 00:26:44 | INFO | Loading Data from Excel...
+2025-02-19 00:26:45 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:26:45 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:26:45 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:26:45 | INFO | Dataset successfully randomized!
+2025-02-19 00:26:45 | INFO | Repository successfully initialized!
+2025-02-19 00:26:45 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:26:45 | INFO | Initializing Model
+2025-02-19 00:26:50 | ERROR | Error in model execution: Trainer.__init__() got an unexpected keyword argument 'criterion'
+2025-02-19 00:32:20 | INFO | Starting the model...
+2025-02-19 00:32:20 | INFO | Initializing Repository Handler
+2025-02-19 00:32:20 | INFO | Loading Data from Excel...
+2025-02-19 00:32:21 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:32:21 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:32:21 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:32:21 | INFO | Dataset successfully randomized!
+2025-02-19 00:32:21 | INFO | Repository successfully initialized!
+2025-02-19 00:32:21 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:32:21 | INFO | Initializing Model
+2025-02-19 00:32:22 | ERROR | Error in model execution: 'rce_samples'
+2025-02-19 00:33:11 | INFO | Starting the model...
+2025-02-19 00:33:11 | INFO | Initializing Repository Handler
+2025-02-19 00:33:11 | INFO | Loading Data from Excel...
+2025-02-19 00:33:13 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:33:13 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:33:13 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:33:13 | INFO | Dataset successfully randomized!
+2025-02-19 00:33:13 | INFO | Repository successfully initialized!
+2025-02-19 00:33:13 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:33:13 | INFO | Initializing Model
+2025-02-19 00:33:17 | ERROR | Error in model execution: BERT.train_model.<locals>.CustomTrainer.compute_loss() got an unexpected keyword argument 'num_items_in_batch'
+2025-02-19 00:35:57 | INFO | Starting the model...
+2025-02-19 00:35:57 | INFO | Initializing Repository Handler
+2025-02-19 00:35:57 | INFO | Loading Data from Excel...
+2025-02-19 00:35:59 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:35:59 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:35:59 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:35:59 | INFO | Dataset successfully randomized!
+2025-02-19 00:35:59 | INFO | Repository successfully initialized!
+2025-02-19 00:35:59 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:35:59 | INFO | Initializing Model
+2025-02-19 00:36:04 | ERROR | Error in model execution: BERT.train_model.<locals>.CustomTrainer.compute_loss() got an unexpected keyword argument 'num_items_in_batch'
+2025-02-19 00:37:53 | INFO | Starting the model...
+2025-02-19 00:37:53 | INFO | Initializing Repository Handler
+2025-02-19 00:37:53 | INFO | Loading Data from Excel...
+2025-02-19 00:37:55 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:37:55 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:37:55 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:37:55 | INFO | Dataset successfully randomized!
+2025-02-19 00:37:55 | INFO | Repository successfully initialized!
+2025-02-19 00:37:55 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:37:55 | INFO | Initializing Model
+2025-02-19 00:37:56 | ERROR | Error in model execution: 'WebAttackDetector' object has no attribute 'train_model'
+2025-02-19 00:38:46 | INFO | Starting the model...
+2025-02-19 00:38:46 | INFO | Initializing Repository Handler
+2025-02-19 00:38:46 | INFO | Loading Data from Excel...
+2025-02-19 00:38:48 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:38:48 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:38:48 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:38:48 | INFO | Dataset successfully randomized!
+2025-02-19 00:38:48 | INFO | Repository successfully initialized!
+2025-02-19 00:38:48 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:38:48 | INFO | Initializing Model
+2025-02-19 00:38:52 | ERROR | Error in model execution: CustomTrainer.compute_loss() got an unexpected keyword argument 'num_items_in_batch'
+2025-02-19 00:40:07 | INFO | Starting the model...
+2025-02-19 00:40:07 | INFO | Initializing Repository Handler
+2025-02-19 00:40:07 | INFO | Loading Data from Excel...
+2025-02-19 00:40:08 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:40:08 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:40:08 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:40:08 | INFO | Dataset successfully randomized!
+2025-02-19 00:40:08 | INFO | Repository successfully initialized!
+2025-02-19 00:40:08 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:40:08 | INFO | Initializing Model
+2025-02-19 00:40:13 | ERROR | Error in model execution: CustomTrainer.compute_loss() got an unexpected keyword argument 'num_items_in_batch'
+2025-02-19 00:41:54 | INFO | Starting the model...
+2025-02-19 00:41:54 | INFO | Initializing Repository Handler
+2025-02-19 00:41:54 | INFO | Loading Data from Excel...
+2025-02-19 00:41:55 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:41:55 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:41:55 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:41:55 | INFO | Dataset successfully randomized!
+2025-02-19 00:41:55 | INFO | Repository successfully initialized!
+2025-02-19 00:41:55 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:41:55 | INFO | Initializing Model
+2025-02-19 00:44:19 | INFO | Starting the model...
+2025-02-19 00:44:19 | INFO | Initializing Repository Handler
+2025-02-19 00:44:19 | INFO | Loading Data from Excel...
+2025-02-19 00:44:20 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 00:44:20 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 00:44:20 | INFO | Randomizing dataset 5 times...
+2025-02-19 00:44:20 | INFO | Dataset successfully randomized!
+2025-02-19 00:44:20 | INFO | Repository successfully initialized!
+2025-02-19 00:44:20 | INFO | Unique UriQuery values: 21229
+2025-02-19 00:44:20 | INFO | Initializing Model
+2025-02-19 01:03:00 | ERROR | Error in model execution: iteration over a 0-d tensor
+2025-02-19 01:13:27 | INFO | Starting the model...
+2025-02-19 01:13:27 | INFO | Initializing Repository Handler
+2025-02-19 01:13:27 | INFO | Loading Data from Excel...
+2025-02-19 01:13:29 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 01:13:29 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 01:13:29 | INFO | Randomizing dataset 5 times...
+2025-02-19 01:13:29 | INFO | Dataset successfully randomized!
+2025-02-19 01:13:29 | INFO | Repository successfully initialized!
+2025-02-19 01:13:29 | INFO | Unique UriQuery values: 21229
+2025-02-19 01:13:29 | INFO | Initializing Model
+2025-02-19 01:30:49 | ERROR | Error in model execution: iteration over a 0-d tensor
+2025-02-19 01:39:16 | INFO | Starting the model...
+2025-02-19 01:39:16 | INFO | Initializing Repository Handler
+2025-02-19 01:39:16 | INFO | Loading Data from Excel...
+2025-02-19 01:39:18 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 01:39:18 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 01:39:18 | INFO | Randomizing dataset 5 times...
+2025-02-19 01:39:18 | INFO | Dataset successfully randomized!
+2025-02-19 01:39:18 | INFO | Repository successfully initialized!
+2025-02-19 01:39:18 | INFO | Unique UriQuery values: 21229
+2025-02-19 01:39:18 | INFO | Initializing Model
+2025-02-19 01:39:22 | ERROR | Error in model execution: CustomTrainer.compute_loss() got an unexpected keyword argument 'num_items_in_batch'
+2025-02-19 01:41:11 | INFO | Starting the model...
+2025-02-19 01:41:11 | INFO | Initializing Repository Handler
+2025-02-19 01:41:11 | INFO | Loading Data from Excel...
+2025-02-19 01:41:12 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 01:41:12 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 01:41:12 | INFO | Randomizing dataset 5 times...
+2025-02-19 01:41:12 | INFO | Dataset successfully randomized!
+2025-02-19 01:41:12 | INFO | Repository successfully initialized!
+2025-02-19 01:41:12 | INFO | Unique UriQuery values: 21229
+2025-02-19 01:41:12 | INFO | Initializing Model
+2025-02-19 02:57:36 | INFO | Starting the model...
+2025-02-19 02:57:36 | INFO | Initializing Repository Handler
+2025-02-19 02:57:36 | INFO | Loading Data from Excel...
+2025-02-19 02:57:38 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 02:57:38 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 02:57:38 | INFO | Randomizing dataset 5 times...
+2025-02-19 02:57:38 | INFO | Dataset successfully randomized!
+2025-02-19 02:57:38 | INFO | Repository successfully initialized!
+2025-02-19 02:57:38 | INFO | Unique UriQuery values: 21229
+2025-02-19 02:57:38 | INFO | Initializing Model
+2025-02-19 02:58:24 | ERROR | Error in model execution: 'NoneType' object is not subscriptable
+2025-02-19 02:58:59 | INFO | Starting the model...
+2025-02-19 02:58:59 | INFO | Initializing Repository Handler
+2025-02-19 02:58:59 | INFO | Loading Data from Excel...
+2025-02-19 02:59:00 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 02:59:00 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 02:59:00 | INFO | Randomizing dataset 5 times...
+2025-02-19 02:59:00 | INFO | Dataset successfully randomized!
+2025-02-19 02:59:00 | INFO | Repository successfully initialized!
+2025-02-19 02:59:00 | INFO | Unique UriQuery values: 21229
+2025-02-19 02:59:00 | INFO | Initializing Model
+2025-02-19 02:59:05 | ERROR | Error in model execution: 'NoneType' object is not subscriptable
+2025-02-19 02:59:25 | INFO | Starting the model...
+2025-02-19 02:59:25 | INFO | Initializing Repository Handler
+2025-02-19 02:59:25 | INFO | Loading Data from Excel...
+2025-02-19 02:59:26 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 02:59:26 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 02:59:26 | INFO | Randomizing dataset 5 times...
+2025-02-19 02:59:26 | INFO | Dataset successfully randomized!
+2025-02-19 02:59:26 | INFO | Repository successfully initialized!
+2025-02-19 02:59:26 | INFO | Unique UriQuery values: 21229
+2025-02-19 02:59:26 | INFO | Initializing Model
+2025-02-19 02:59:29 | ERROR | Error in model execution: 3
+2025-02-19 03:00:05 | INFO | Starting the model...
+2025-02-19 03:00:05 | INFO | Initializing Repository Handler
+2025-02-19 03:00:05 | INFO | Loading Data from Excel...
+2025-02-19 03:00:07 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 03:00:07 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 03:00:07 | INFO | Randomizing dataset 5 times...
+2025-02-19 03:00:07 | INFO | Dataset successfully randomized!
+2025-02-19 03:00:07 | INFO | Repository successfully initialized!
+2025-02-19 03:00:07 | INFO | Unique UriQuery values: 21229
+2025-02-19 03:00:07 | INFO | Initializing Model
+2025-02-19 03:00:42 | ERROR | Error in model execution: 3
+2025-02-19 03:01:37 | INFO | Starting the model...
+2025-02-19 03:01:37 | INFO | Initializing Repository Handler
+2025-02-19 03:01:37 | INFO | Loading Data from Excel...
+2025-02-19 03:01:39 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 03:01:39 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 03:01:39 | INFO | Randomizing dataset 5 times...
+2025-02-19 03:01:39 | INFO | Dataset successfully randomized!
+2025-02-19 03:01:39 | INFO | Repository successfully initialized!
+2025-02-19 03:01:39 | INFO | Unique UriQuery values: 21229
+2025-02-19 03:01:39 | INFO | Initializing Model
+2025-02-19 03:01:42 | ERROR | Error in model execution: 3
+2025-02-19 03:02:04 | INFO | Starting the model...
+2025-02-19 03:02:04 | INFO | Initializing Repository Handler
+2025-02-19 03:02:04 | INFO | Loading Data from Excel...
+2025-02-19 03:02:05 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 03:02:05 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 03:02:05 | INFO | Randomizing dataset 5 times...
+2025-02-19 03:02:05 | INFO | Dataset successfully randomized!
+2025-02-19 03:02:05 | INFO | Repository successfully initialized!
+2025-02-19 03:02:05 | INFO | Unique UriQuery values: 21229
+2025-02-19 03:02:05 | INFO | Initializing Model
+2025-02-19 03:02:09 | ERROR | Error in model execution: 0
+2025-02-19 03:02:34 | INFO | Starting the model...
+2025-02-19 03:02:34 | INFO | Initializing Repository Handler
+2025-02-19 03:02:34 | INFO | Loading Data from Excel...
+2025-02-19 03:02:35 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 03:02:35 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 03:02:35 | INFO | Randomizing dataset 5 times...
+2025-02-19 03:02:35 | INFO | Dataset successfully randomized!
+2025-02-19 03:02:35 | INFO | Repository successfully initialized!
+2025-02-19 03:02:35 | INFO | Unique UriQuery values: 21229
+2025-02-19 03:02:35 | INFO | Initializing Model
+2025-02-19 03:02:44 | ERROR | Error in model execution: 3
+2025-02-19 03:03:56 | INFO | Starting the model...
+2025-02-19 03:03:56 | INFO | Initializing Repository Handler
+2025-02-19 03:03:56 | INFO | Loading Data from Excel...
+2025-02-19 03:03:57 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 03:03:57 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 03:03:57 | INFO | Randomizing dataset 5 times...
+2025-02-19 03:03:57 | INFO | Dataset successfully randomized!
+2025-02-19 03:03:57 | INFO | Repository successfully initialized!
+2025-02-19 03:03:57 | INFO | Unique UriQuery values: 21229
+2025-02-19 03:03:57 | INFO | Initializing Model
+2025-02-19 03:05:02 | INFO | Starting the model...
+2025-02-19 03:05:02 | INFO | Initializing Repository Handler
+2025-02-19 03:05:02 | INFO | Loading Data from Excel...
+2025-02-19 03:05:03 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 03:05:03 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 03:05:03 | INFO | Randomizing dataset 5 times...
+2025-02-19 03:05:03 | INFO | Dataset successfully randomized!
+2025-02-19 03:05:03 | INFO | Repository successfully initialized!
+2025-02-19 03:05:03 | INFO | Unique UriQuery values: 21229
+2025-02-19 03:05:03 | INFO | Initializing Model
+2025-02-19 03:05:07 | INFO | Category: SQLi
+Prediction: [6.8307368e-06 7.5703597e-06 1.1820703e-05 9.9996495e-01 6.2043387e-06
+ 2.5557288e-06]
+2025-02-19 03:05:48 | INFO | Starting the model...
+2025-02-19 03:05:48 | INFO | Initializing Repository Handler
+2025-02-19 03:05:48 | INFO | Loading Data from Excel...
+2025-02-19 03:05:49 | INFO | Loaded 3855 SQLi, 86 RFI, 2696 LFI, 3102 XSS and 932 RCE entries.
+2025-02-19 03:05:49 | INFO | Loaded 10558 normal and 10671 malicious entries.
+2025-02-19 03:05:49 | INFO | Randomizing dataset 5 times...
+2025-02-19 03:05:49 | INFO | Dataset successfully randomized!
+2025-02-19 03:05:49 | INFO | Repository successfully initialized!
+2025-02-19 03:05:49 | INFO | Unique UriQuery values: 21229
+2025-02-19 03:05:49 | INFO | Initializing Model
+2025-02-19 03:05:56 | INFO | Category: SQLi
+Prediction: [0.00000683 0.00000757 0.00001182 0.99996495 0.0000062  0.00000256]
+2025-02-19 03:06:20 | INFO | Category: SQLi
+Prediction: [0.00001405 0.00001741 0.00005381 0.9999075  0.00000442 0.00000286]
+2025-02-19 03:07:41 | INFO | Category: SQLi
+Prediction: [0.00000507 0.00000547 0.00001287 0.9999689  0.00000548 0.00000233]
+2025-02-19 03:07:53 | INFO | Category: RFI
+Prediction: [0.00010727 0.00017175 0.00006187 0.00004095 0.0000842  0.999534  ]
+2025-02-19 03:08:01 | INFO | Category: RCE
+Prediction: [0.01450433 0.00193059 0.09019525 0.00067365 0.89161074 0.00108549]
+2025-02-19 03:08:11 | INFO | Category: RFI
+Prediction: [0.00029378 0.00269088 0.00016299 0.00008633 0.00027866 0.9964874 ]
+2025-02-19 03:08:16 | INFO | Category: LFI
+Prediction: [0.00074059 0.00079818 0.557725   0.00073061 0.00159657 0.43840897]
+2025-02-19 03:08:27 | INFO | Category: Benign
+Prediction: [0.00081376 0.991886   0.00337826 0.00031829 0.00038684 0.00321686]
+2025-02-19 03:08:33 | INFO | Category: Benign
+Prediction: [0.00081376 0.991886   0.00337826 0.00031829 0.00038684 0.00321686]
+2025-02-19 03:08:35 | INFO | Category: Benign
+Prediction: [0.00081376 0.991886   0.00337826 0.00031829 0.00038684 0.00321686]
+2025-02-19 03:09:19 | INFO | Category: Benign
+Prediction: [0.00002994 0.99898547 0.00041446 0.00053828 0.00001732 0.00001458]
+2025-02-19 03:09:23 | INFO | Category: LFI
+Prediction: [0.00012542 0.05515771 0.94039845 0.00087708 0.00329607 0.00014527]
+2025-02-19 03:09:26 | INFO | Category: LFI
+Prediction: [0.00000952 0.0001162  0.99962914 0.00021446 0.00002066 0.00000998]
+2025-02-19 03:09:52 | INFO | Category: RCE
+Prediction: [0.01450433 0.00193059 0.09019525 0.00067365 0.89161074 0.00108549]
